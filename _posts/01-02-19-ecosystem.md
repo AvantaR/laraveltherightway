@@ -8,7 +8,7 @@ anchor:  the-ecosystem
 
 Co najmniej musisz wiedzieć jak korzystać z [Gita](https://git-scm.com/){:target="_blank"} oraz [Composera](https://getcomposer.org/){:target="_blank"}. Mimo, że nie jest to wymagane, najlepiej jakbyś posiadał konto na [GitHub.com](https://github.com/){:target="_blank"}, ponieważ hostowany jest tam cały kod i wiele jego zależności.
 
-You MUST be comfortable in using [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface){:target="_blank"}, specially Unix Shells (sh, ksh, csh, tcsh, bash etc) as it is heavily used for common tasks in working with Laravel.
+MUSISZ czuć się swobodnie używając [wiersza poleceń (CLI)](https://pl.wikipedia.org/wiki/Wiersz_poleceń){:target="_blank"}, szczególnie powłok UNIXowych (sh, ksh, csh, tcsh, bash etc), gdyż są one często używane w trakcie pracy z Laravelem.
 
 For local development, you’ll need to have at least [Vagrant](https://www.vagrantup.com/){:target="_blank"} and [VirtualBox](https://www.virtualbox.org/){:target="_blank"} installed. This is used by [Homestead](https://laravel.com/docs/5.8/homestead){:target="_blank"} (a special vagrant box made for running Laravel apps). Although you can use the traditional WAMP/MAMP/XAMPP stack, those are not officially supported, thus you might have hard time down the road.
 
