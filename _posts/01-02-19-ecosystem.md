@@ -1,12 +1,12 @@
 ---
-title:   The Ecosystem
+title:   Ekosystem
 isChild: true
 anchor:  the-ecosystem
 ---
 
-## The Ecosystem {#the_ecosystem}
+## Ekosystem {#the_ecosystem}
 
-At the very minimum, you need to know how to use [Git](https://git-scm.com/){:target="_blank"} and [Composer](https://getcomposer.org/){:target="_blank"}. Though not required, it is better that you have an account on [GitHub.com](https://github.com/){:target="_blank"} as it is where all the code and its dependencies are hosted.
+Co najmniej musisz wiedzieć jak korzystać z [Gita](https://git-scm.com/){:target="_blank"} oraz [Composera](https://getcomposer.org/){:target="_blank"}. Mimo, że nie jest to wymagane, najlepiej jakbyś posiadał konto na [GitHub.com](https://github.com/){:target="_blank"}, ponieważ hostowany jest tam cały kod i wiele jego zależności.
 
 You MUST be comfortable in using [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface){:target="_blank"}, specially Unix Shells (sh, ksh, csh, tcsh, bash etc) as it is heavily used for common tasks in working with Laravel.
 
