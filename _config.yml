@@ -1,4 +1,4 @@
-baseurl: laraveltherightway/
+baseurl: /laraveltherightway/
 highlighter: rouge
 markdown: kramdown
 permalink: date
