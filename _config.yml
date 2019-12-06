@@ -21,4 +21,4 @@ defaults:
 
 exclude: ['CNAME', 'CONTRIBUTING.md', 'LICENSE', 'README.md', 'pages/example.md']
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
